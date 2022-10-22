@@ -2,6 +2,9 @@
 #include <vector>
 #include <math.h>
 #include <chrono>
+#include <algorithm>
+#include <string>
+
 using namespace std::chrono;
 
 std::vector<int> factors(int num)
